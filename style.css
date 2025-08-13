@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: #f0f8ff;
+    background-image: url("1,874 Vaporwave Stock Photos, High-Res Pictures, and Images - Getty Images.jfif");
+    background-size: cover;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.click{
+    padding: 20px 40px;
+    font-size: 35px;
+    background-color: rgb(9, 103, 226);
+    color: #ffffff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.click:disabled{
+    background-color: rgb(57, 59, 78);
+    cursor: not-allowed;
+}
+
+.info{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.start{
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(185, 34, 34);
+    color: #ffffff;
+}
